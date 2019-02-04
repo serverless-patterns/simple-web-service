@@ -1,0 +1,24 @@
+{
+  "name": "@serverless-patterns/simple-web-service",
+  "version": "1.0.0",
+  "description": "AWS-CDK Simple Webservice (Lambda / API Gateway / DynamoDB )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverless-patterns/simple-web-service.git"
+  },
+  "keywords": [
+    "aws-cdk",
+    "serverless",
+    "patterns"
+  ],
+  "author": "leo@cuckoo.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serverless-patterns/simple-web-service/issues"
+  },
+  "homepage": "https://github.com/serverless-patterns/simple-web-service#readme"
+}
