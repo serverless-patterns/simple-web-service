@@ -1,0 +1,14 @@
+{
+  "name": "simple-web-service-lambda",
+  "version": "1.0.0",
+  "description": "A simple webservice talking to dynamodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leo@cuckoo.org",
+  "license": "MIT",
+  "dependencies": {
+    "lambda-api": "^0.10.0"
+  }
+}

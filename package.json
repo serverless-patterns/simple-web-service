@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/serverless-patterns/simple-web-service/issues"
   },
-  "homepage": "https://github.com/serverless-patterns/simple-web-service#readme"
+  "homepage": "https://github.com/serverless-patterns/simple-web-service#readme",
+  "dependencies": {
+    "@aws-cdk/aws-apigateway": "^0.22.0",
+    "@aws-cdk/aws-dynamodb": "^0.22.0",
+    "@aws-cdk/aws-lambda": "^0.22.0",
+    "@aws-cdk/cdk": "^0.22.0",
+    "@types/node": "^10.12.21"
+  }
 }
